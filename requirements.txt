@@ -4,4 +4,4 @@ llama-index==0.10.4
 nltk
 httpx
 pypdf
-maptplotlib==3.9.1
+maptplotlib==3.8.0
